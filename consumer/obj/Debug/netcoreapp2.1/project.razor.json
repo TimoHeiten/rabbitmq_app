@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/timoheiten/OneDrive/blog_theiten/docker/example_apps/docker_recipies/masstransit_and_rabbit_mq/consumer/consumer.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
