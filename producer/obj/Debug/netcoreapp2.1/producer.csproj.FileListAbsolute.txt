@@ -1,0 +1,11 @@
+/Users/timoheiten/OneDrive/blog_theiten/docker/example_apps/docker_recipies/masstransit_and_rabbit_mq/producer/bin/Debug/netcoreapp2.1/producer.deps.json
+/Users/timoheiten/OneDrive/blog_theiten/docker/example_apps/docker_recipies/masstransit_and_rabbit_mq/producer/bin/Debug/netcoreapp2.1/producer.runtimeconfig.json
+/Users/timoheiten/OneDrive/blog_theiten/docker/example_apps/docker_recipies/masstransit_and_rabbit_mq/producer/bin/Debug/netcoreapp2.1/producer.runtimeconfig.dev.json
+/Users/timoheiten/OneDrive/blog_theiten/docker/example_apps/docker_recipies/masstransit_and_rabbit_mq/producer/bin/Debug/netcoreapp2.1/producer.dll
+/Users/timoheiten/OneDrive/blog_theiten/docker/example_apps/docker_recipies/masstransit_and_rabbit_mq/producer/bin/Debug/netcoreapp2.1/producer.pdb
+/Users/timoheiten/OneDrive/blog_theiten/docker/example_apps/docker_recipies/masstransit_and_rabbit_mq/producer/obj/Debug/netcoreapp2.1/producer.csprojAssemblyReference.cache
+/Users/timoheiten/OneDrive/blog_theiten/docker/example_apps/docker_recipies/masstransit_and_rabbit_mq/producer/obj/Debug/netcoreapp2.1/producer.csproj.CoreCompileInputs.cache
+/Users/timoheiten/OneDrive/blog_theiten/docker/example_apps/docker_recipies/masstransit_and_rabbit_mq/producer/obj/Debug/netcoreapp2.1/producer.AssemblyInfoInputs.cache
+/Users/timoheiten/OneDrive/blog_theiten/docker/example_apps/docker_recipies/masstransit_and_rabbit_mq/producer/obj/Debug/netcoreapp2.1/producer.AssemblyInfo.cs
+/Users/timoheiten/OneDrive/blog_theiten/docker/example_apps/docker_recipies/masstransit_and_rabbit_mq/producer/obj/Debug/netcoreapp2.1/producer.dll
+/Users/timoheiten/OneDrive/blog_theiten/docker/example_apps/docker_recipies/masstransit_and_rabbit_mq/producer/obj/Debug/netcoreapp2.1/producer.pdb
