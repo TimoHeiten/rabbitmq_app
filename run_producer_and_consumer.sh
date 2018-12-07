@@ -17,4 +17,5 @@ dotnet run --project ./producer/producer.csproj
 # run consumer
 dotnet run --project ./consumer/consumer.csproj
 
+# stop and remove due to --rm on contaienr run
 dotnet container stop local_rabbit
