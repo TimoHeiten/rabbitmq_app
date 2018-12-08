@@ -16,24 +16,14 @@ namespace producer
                 {
                     using (var channel = connection.CreateModel())
                     {
-                        channel.QueueDeclare(
-                            "hello",
-                            durable: false,
-                            exclusive: false,
-                            autoDelete: false,
-                            arguments: null
-                        );
+                        channel.QueueDeclare("hello", durable: false, exclusive: false, autoDelete: false, arguments: null);
 
                         string message = "Hello World from the queue";
                         var body = Encoding.UTF8.GetBytes(message);
 
-                        channel.BasicPublish(exchange: "", // default exchange
-                                     routingKey: "hello",
-                                     basicProperties: null,
-                                     body: body);
+                        channel.BasicPublish(exchange: "", routingKey: "hello", basicProperties: null, body: body);
                         Console.WriteLine(" [x] Sent {0}", message);
                     }
-
                     Console.WriteLine(" Press [enter] to exit.");
                     Console.ReadLine();
                 }
