@@ -4187,11 +4187,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/timoheiten/OneDrive/blog_theiten/docker/example_apps/docker_recipies/masstransit_and_rabbit_mq/consumer/consumer.csproj",
+      "projectUniqueName": "/Users/timoheiten/OneDrive/blog_theiten/docker/example_apps/docker_recipies/rabbitmq_app/consumer/consumer.csproj",
       "projectName": "consumer",
-      "projectPath": "/Users/timoheiten/OneDrive/blog_theiten/docker/example_apps/docker_recipies/masstransit_and_rabbit_mq/consumer/consumer.csproj",
+      "projectPath": "/Users/timoheiten/OneDrive/blog_theiten/docker/example_apps/docker_recipies/rabbitmq_app/consumer/consumer.csproj",
       "packagesPath": "/Users/timoheiten/.nuget/packages/",
-      "outputPath": "/Users/timoheiten/OneDrive/blog_theiten/docker/example_apps/docker_recipies/masstransit_and_rabbit_mq/consumer/obj/",
+      "outputPath": "/Users/timoheiten/OneDrive/blog_theiten/docker/example_apps/docker_recipies/rabbitmq_app/consumer/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
